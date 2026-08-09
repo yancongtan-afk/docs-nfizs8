@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-cgnpzg.hsteamid.com/sitemap.xml
